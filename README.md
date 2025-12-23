@@ -1,7 +1,7 @@
 # z
 Zero-Dependency Java Projects
 
-All projects in this repository are Java 25 applications without external dependencies. They run in source-file mode using only Java SE APIs.
+A curated collection of Java projects following the "z" (zero) philosophy: no external dependencies, pure Java SE APIs. Each project is self-contained and can be copied directly into your codebase or used standalone.
 
 ## Projects
 
