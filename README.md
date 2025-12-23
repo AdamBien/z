@@ -6,3 +6,4 @@ All projects in this repository are Java 25 applications without external depend
 ## Projects
 
 - [zb](https://github.com/AdamBien/zb) - Zero Dependencies Builder. A Java build tool for compilation and executable JAR generation.
+- [zcl](https://github.com/AdamBien/zcl) - Zero-dependency Colour Logger. A logging utility with ANSI color support for console output.
