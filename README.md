@@ -9,3 +9,4 @@ All projects in this repository are Java 25 applications without external depend
 - [zcfg](https://github.com/AdamBien/zcfg) - Zero Dependency Configuration Utility. A configuration loader for Java properties files with precedence rules.
 - [zcl](https://github.com/AdamBien/zcl) - Zero Dependency Colour Logger. A logging utility with ANSI color support for console output.
 - [zfsl](https://github.com/AdamBien/zfsl) - Zero Dependencies File Selection and Copy Tool. Interactive CLI for selective file copying with content preview.
+- [zws](https://github.com/AdamBien/zws) - Zero Dependencies Web Server. A development web server that serves files and opens the browser automatically.
