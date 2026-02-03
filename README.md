@@ -10,6 +10,7 @@ A curated collection of Java projects following the "z" (zero) philosophy: no ex
 - [zb](https://github.com/AdamBien/zb) - Zero Dependencies Builder. A Java build tool for compilation and executable JAR generation.
 - [zcfg](https://github.com/AdamBien/zcfg) - Zero Dependency Configuration Utility. A configuration loader for Java properties files with precedence rules.
 - [zcl](https://github.com/AdamBien/zcl) - Zero Dependency Colour Logger. A logging utility with ANSI color support for console output.
+- [zeeds](https://github.com/AdamBien/zeeds) - Zero Dependencies Seeds. Self-contained Java 25+ blueprints that run directly with `java filename.java`.
 - [zfsl](https://github.com/AdamBien/zfsl) - Zero Dependencies File Selection and Copy Tool. Interactive CLI for selective file copying with content preview.
 - [zscro](https://github.com/AdamBien/zscro) - Zero Dependencies Script Reader. Searches for executables in PATH and displays their contents.
 - [zsmith](https://github.com/AdamBien/zsmith) - Zero Dependencies AI Agent Framework. A Claude agent framework with tool execution support.
