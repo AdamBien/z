@@ -1,7 +1,7 @@
 # z
 Zero-Dependency Java Projects
 
-![z logo](logo.png)
+<img src="logo.png" alt="zero-dependencies duke" width="200">
 
 A curated collection of Java projects following the "z" (zero) philosophy: no external dependencies, pure Java SE APIs. Each project is self-contained and can be copied directly into your codebase or used standalone.
 
