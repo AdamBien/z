@@ -15,6 +15,7 @@ A curated collection of Java projects following the "z" (zero) philosophy: no ex
 - [zeeds](https://github.com/AdamBien/zeeds) - Zero Dependencies Seeds. Self-contained Java 25+ blueprints that run directly with `java filename.java`.
 - [jmarkdoc](https://github.com/AdamBien/jmarkdoc) - A custom JavaDoc doclet that generates clean Markdown API docs from Java source and comments, designed for AI integration and documentation pipelines.
 - [zfsl](https://github.com/AdamBien/zfsl) - Zero Dependencies File Selection and Copy Tool. Interactive CLI for selective file copying with content preview.
+- [zhtmldb](https://github.com/AdamBien/zhtmldb) - Zero Dependencies HTML Database. A CLI that persists key-value data as semantic XHTML, browsable as a website and parseable as XML.
 - [lightmetal](https://github.com/adambien/lightmetal) - Local LLM inference for Java. Relies on a running [llama.cpp](https://github.com/ggml-org/llama.cpp) server for model execution.
 - [zscro](https://github.com/AdamBien/zscro) - Zero Dependencies Script Reader. Searches for executables in PATH and displays their contents.
 - [zsmith](https://github.com/AdamBien/zsmith) - Zero Dependencies AI Agent Framework. A Claude agent framework with tool execution support.
